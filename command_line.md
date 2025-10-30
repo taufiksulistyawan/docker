@@ -1,11 +1,8 @@
-Perintah `docker ps` digunakan untuk **menampilkan daftar container yang sedang berjalan** di Docker.
-
-Berikut penjelasan lengkapnya 👇
-
----
+**Daftar Perintah Pada Docker**
 
 ### 🔹 **Perintah dasar**
 
 ```bash
 docker ps
 ```
+menampilkan daftar container yang sedang berjalan
