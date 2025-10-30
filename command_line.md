@@ -1,6 +1,6 @@
 **Daftar Perintah Pada Docker**
 
-### 🔹 **Perintah dasar**
+### ⚙️ **Mengontrol Container**
 
 ```bash
 docker ps
