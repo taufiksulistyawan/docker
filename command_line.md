@@ -26,3 +26,35 @@ Merestart container
 docker rm [container_id]
 ```
 Menghapus container
+### ⚓ **Network & Volume**
+```bash
+docker network ls
+```
+Menampilkan daftar network Docker
+```bash
+docker network create [nama_network]
+```
+Membuat network baru
+```bash
+docker network connect [nama_network] [nama_kontainer]
+```
+Memasukkan kontainer ke dalam network
+```bash
+docker network inspect [nama_network]
+```
+Melihat isi network
+```bash
+docker ps
+```
+
+```bash
+docker ps
+```
+
+```bash
+docker ps
+```
+
+```bash
+docker ps
+```
